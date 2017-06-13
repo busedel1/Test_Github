@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello to everyone
 ahomega
+=======
+hello
+hello to branch
+>>>>>>> test_branch
